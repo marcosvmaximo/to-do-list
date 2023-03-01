@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{F7C89539-6E92-4DFF-88B5-ED894BEEFD6D}|Default">
+  <MonoDevelop.Ide.ItemProperties.ListaTarefaCRUD.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/marcosmaximo/Projects/ListaTarefaCRUD/ListaTarefaCRUD.Api/Controllers/TarefaController.cs" relfile="ListaTarefaCRUD.Api/Controllers/TarefaController.cs" line="65" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="ListaTarefaCRUD.Api/Controllers/TarefaController.cs">
+    <Files>
+      <File FileName="ListaTarefaCRUD.Api/Controllers/TarefaController.cs" Line="107" Column="1" />
+      <File FileName="ListaTarefaCRUD.Api/Models/Tarefa.cs" />
+      <File FileName="ListaTarefaCRUD.Api/Infra/DataContext.cs" />
+      <File FileName="ListaTarefaCRUD.Api/Repositories/TarefaRepository.cs" Line="43" Column="1" />
+      <File FileName="ListaTarefaCRUD.Api/Interfaces/Repositories/IRepositoryBase.cs" Line="8" Column="27" />
+      <File FileName="ListaTarefaCRUD.Api/Program.cs" Line="19" Column="1" />
+      <File FileName="ListaTarefaCRUD.Api/appsettings.json" />
+      <File FileName="ListaTarefaCRUD.Api/Models/Usuario.cs" />
+      <File FileName="ListaTarefaCRUD.Api/Models/Common/Entity.cs" />
+      <File FileName="ListaTarefaCRUD.Api/Controllers/UsuarioController.cs" Line="36" Column="2" />
+      <File FileName="ListaTarefaCRUD.Api/Repositories/UsuarioRepository.cs" Line="44" Column="30" />
+      <File FileName="ListaTarefaCRUD.Api/Interfaces/Repositories/IUsuarioRepository.cs" />
+      <File FileName="ListaTarefaCRUD.Api/Mappers/UsuarioMapper.cs" Line="12" Column="34" />
+      <File FileName="ListaTarefaCRUD.Api/Mappers/TarefaMapper.cs" Line="14" Column="79" />
+      <File FileName="ListaTarefaCRUD.Api/Interfaces/Repositories/ITarefaRepository.cs" Line="8" Column="21" />
+      <File FileName="ListaTarefaCRUD.Api/Services/TarefaService.cs" Line="2" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ListaTarefaCRUD" expanded="True">
+            <Node name="ListaTarefaCRUD.Api" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="TarefaController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True">
+                <Node name="Common" expanded="True" />
+              </Node>
+              <Node name="Repositories" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

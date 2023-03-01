@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/ListaTarefaCRUD.Api.props" />
+</Project>
